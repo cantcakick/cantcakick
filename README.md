@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cantcakick Charles Agnew
 - 👀 I’m interested in ...Engineering, IT and AV
-- 🌱 I’m currently learning ...Python, JS, Git, SQL, and automation
+- 🌱 I’m currently learning ...Python, JS, Git, SQL, R, Kotlin and automation
 - 💞️ I’m looking to collaborate on ...everything
 - 📫 How to reach me ...linkedin https://www.linkedin.com/in/charles-agnew-cca
 
